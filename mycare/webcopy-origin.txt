@@ -1,0 +1,8 @@
+Uri: https://apple-care-service.github.io/mycare/
+File Name: C:\Downloaded Web Sites\apple-care-service.github.io\mycare\index.htm
+Content Type: text/html
+
+Uri: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJdPcB2oXgDyG3CC8k0UIxyNpWHxNVDs7a291yLLTC7RKTa-ecVuu21cbKU6iG77PJShQ&usqp=CAU
+File Name: C:\Downloaded Web Sites\apple-care-service.github.io\images
+Content Type: image/png
+
